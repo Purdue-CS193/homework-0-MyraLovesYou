@@ -5,3 +5,5 @@
 - sick tricks![uhhh](https://cdn.7tv.app/emote/01H0405680000AJFXTYVX2PNJ7/1x.avif)
 
 ![Me when im in CS193](https://cdn.7tv.app/emote/01FYQETTC80001S5T44EC5W8B0/4x.avif)
+
+<!-- https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax#images -->
